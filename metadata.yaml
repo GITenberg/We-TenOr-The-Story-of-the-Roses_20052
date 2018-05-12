@@ -1,0 +1,43 @@
+_repo: We-TenOr-The-Story-of-the-Roses_20052
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brown, Minna
+    gutenberg_agent_id: '37499'
+    url: http://www.gutenberg.org/2009/agents/37499
+covers:
+- cover_type: archival
+  image_path: 20052-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Yechton, Barbara
+    aliases:
+    - Krause, Lyda Farrington
+    - Krausé, Lyda Farrington
+    birthdate: 1864
+    deathdate: 1939
+    gutenberg_agent_id: '9051'
+    url: http://www.gutenberg.org/2009/agents/9051
+description: ''
+gutenberg_issued: '2006-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20052'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Twins -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Parent and child -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Authors -- Juvenile fiction'
+- !lcsh 'Motherless families -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Violinists -- Juvenile fiction'
+- !lcsh 'Children with disabilities -- Juvenile fiction'
+title: 'We Ten
+
+  Or, The Story of the Roses'
+url: http://www.gutenberg.org/ebooks/20052
